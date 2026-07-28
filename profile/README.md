@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="AgentSwarms" width="220" />
+  <img src="../assets/banner.png" alt="AgentSwarms" width="220" />
 </p>
 
 <h1 align="center">
-  <img src="./assets/logo.svg" width="26" align="center" alt="" />
+  <img src="../assets/logo.svg" width="26" align="center" alt="" />
   AgentSwarms
 </h1>
 
@@ -57,11 +57,11 @@ Our flagship platform, **[agentswarms.fyi](https://agentswarms.fyi)**, gives you
 <table>
 <tr>
 <td width="50%">
-  <img src="./assets/screenshot-canvas.png" alt="Swarm canvas builder" />
+  <img src="../assets/screenshot-canvas.png" alt="Swarm canvas builder" />
   <p align="center"><sub>Build swarms visually on the canvas</sub></p>
 </td>
 <td width="50%">
-  <img src="./assets/screenshot-traces.png" alt="Execution trace timeline" />
+  <img src="../assets/screenshot-traces.png" alt="Execution trace timeline" />
   <p align="center"><sub>Trace every run — steps, tokens, and cost</sub></p>
 </td>
 </tr>

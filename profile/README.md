@@ -39,11 +39,11 @@ Our flagship platform, **[agentswarms.fyi](https://agentswarms.fyi)**, gives you
 <table>
 <tr>
 <td width="50%">
-  <img src="../assets/screenshot-canvas.png" alt="Swarm canvas builder" />
+<img width="1000" height="562" alt="21953802e4764519bf136bc0a4f198a5" src="https://github.com/user-attachments/assets/d0ccca2c-c283-4db5-9300-331d786aa37a" />
   <p align="center"><sub>Build swarms visually on the canvas</sub></p>
 </td>
 <td width="50%">
-  <img src="../assets/screenshot-traces.png" alt="Execution trace timeline" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f96818d0-37bf-4597-a370-2e5c2d38236d" />
   <p align="center"><sub>Trace every run — steps, tokens, and cost</sub></p>
 </td>
 </tr>

@@ -12,7 +12,7 @@
   <a href="https://agentswarms.fyi">
     <img alt="Website" src="https://img.shields.io/badge/website-agentswarms.fyi-6366F1?style=flat-square" />
   </a>
-  <a href="https://github.com/AgentSwarms-fyi/AgentSwarms.fyi">
+  <a href="https://github.com/AgentSwarms-fyi/agentswarms">
     <img alt="Core repo" src="https://img.shields.io/badge/repo-AgentSwarms.fyi-0F172A?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/orgs/AgentSwarms-fyi/repositories">
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://agentswarms.fyi"><b>Website</b></a> ·
-  <a href="https://github.com/AgentSwarms-fyi/AgentSwarms.fyi"><b>Core Repository</b></a> ·
+  <a href="https://github.com/AgentSwarms-fyi/agentswarms"><b>Core Repository</b></a> ·
   <a href="https://github.com/orgs/AgentSwarms-fyi/repositories"><b>All Repositories</b></a>
 </p>
 
@@ -53,7 +53,7 @@ Our flagship platform, **[agentswarms.fyi](https://agentswarms.fyi)**, gives you
 
 ## Contributing
 
-We welcome contributions of all kinds — bug reports, feature ideas, docs, and pull requests. Head over to the [AgentSwarms.fyi repository](https://github.com/AgentSwarms-fyi/AgentSwarms.fyi), open an issue, or start a discussion. Every swarm starts with one node.
+We welcome contributions of all kinds — bug reports, feature ideas, docs, and pull requests. Head over to the [AgentSwarms.fyi repository](https://github.com/AgentSwarms-fyi/agentswarms), open an issue, or start a discussion. Every swarm starts with one node.
 
 <br />
 
